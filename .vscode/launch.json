@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: File",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/hello-world.py"
+        },
+        {
+            "name": "Launch file_processing.py",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/src",
+            "program": "${workspaceFolder}/src/file_processing.py"
+        },
+        {
+            "name": "Launch lstm.py",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/src",
+            "program": "${workspaceFolder}/src/lstm.py"
+        },
+        {
+            "name": "Launch sentiment_analysis.py",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/src",
+            "program": "${workspaceFolder}/src/sentiment_analysis.py"
+        },
+        {
+            "name": "Launch sentiment_analysis_train_and_test.py",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/src",
+            "program": "${workspaceFolder}/src/sentiment_analysis_train_and_test.py"
+        }
+    ]
+}
