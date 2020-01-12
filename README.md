@@ -1,7 +1,3 @@
-## codemix-vanilla-python
+# Sentiment analysis using LSTM model
 
-Template for project creation of Python inside CodeMix
-
-# Contents
-
-This template project is an example that prints on the console the Hello World!!! Greeting with the Python langage.
+Code sample for independent study task
