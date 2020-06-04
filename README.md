@@ -7,4 +7,4 @@
 [Opspam-LSTM](https://github.com/hanfeiyu/Opspam-LSTM.git)
 
 # @Author
-[Hanfei Yu](https://github.com/hanfeiyu.git)
+[Hanfei Yu](https://github.com/hanfeiyu)
