@@ -1,3 +1,4 @@
-# Sentiment analysis using LSTM model
+# Opinion Spam Detection using LSTM
 
-Code sample for independent study task
+- Sentiment analysis, opinion spam detection based on LSTM.
+- PyTorch, Torchtext.
